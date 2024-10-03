@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CBxzgTiTqZ6oNjmIBEPs-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Conv&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="CBxzgTiTqZ6oNjmIBEPs-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Conv&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="340" width="28.67" height="161.67" as="geometry" />
         </mxCell>
         <mxCell id="lGV6flm8GxFOk3tL5XQB-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Decoder&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;size=30;flipH=1;fillColor=#FFE6CC;strokeColor=#d79b00;rounded=1;" parent="1" vertex="1">
